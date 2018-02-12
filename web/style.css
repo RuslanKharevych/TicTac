@@ -1,0 +1,62 @@
+body{
+	font-family:verdana;
+	color:#444;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 20px;
+    color: #fff;
+    background: #3C8FB7;
+    padding: 4px 8px;
+	border: 0;
+	cursor: pointer;
+}
+.krestiki_noliki{
+    width: 306px;
+    margin: 0 auto;
+}
+.krestiki_noliki .block{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+    font-size: 100px;
+    line-height: 94px;
+}
+
+.result{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+    display: inline-block;
+    margin: 5px 100px;
+    width: 150px;
+    background-color: #afaaaa;
+}
+
+.button a {
+    line-height: 40px;
+    background-color: #afaaaa;
+    margin: 0;
+}
+
+.res{
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 250px auto;
+}
+
+.res table{
+    margin: auto;
+    border: 1px solid #afaaaa;
+}
+
+td{
+    border: 1px solid #afaaaa;
+}
